@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <array name="info_items">
-
+        <item>
+            Titre::Asseyez-vous sur le trône de Thieves Haven.|Description::Asseyez-vous sur le trône squelette dont l\'emplacement est secret.|Astuce::Le trône se trouve sur le rocher a l\'Est de Thieves Haven au Nord de l\'épave.
+        </item>
+        <item>
+            Titre::Asseyez-vous sur le trône de Mermaid\'s Hideaway.|Description::Asseyez-vous sur le trône squelette dont l\'emplacement est secret.|Astuce::Le trône se trouve au Sud de Mermaid\'s Hideaway en haut du récif isolé.
+        </item>
+        <item>
+            Titre::Asseyez-vous sur le trône squelette de Devil\'s Ridge.|Description::Asseyez-vous sur le trône squelette dont l\'emplacement est secret.|Astuce::Le trône se trouve sous le pic Nord de Devil\'s Ridge, l\'utilisation du fusil harpon est recommandé.
+        </item>
+        <item>
+            Titre::Asseyez-vous sur le trône squelette de Hidden Spring Keep.|Description::Asseyez-vous sur le trône squelette dont l\'emplacement est secret.|Astuce::Le trône se trouve au point le plus haut de Hidden Spring Keep, l\'utilisation du fusil harpon est recommandé.
+        </item>
+        <item>
+            Titre::Asseyez-vous sur le trône squelette sous les vagues.|Description::Asseyez-vous sur le trône squelette dont l\'emplacement est secret.|Astuce::Le trône se trouve dans la grotte après le tunnel en dessous de l\épave sur l\'ile sans nom en K9.
+        </item>
     </array>
 </resources>
 
