@@ -1,21 +1,135 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <array name="info_items">
-        <item>
-            Titre::Asseyez-vous sur le trône de Thieves Haven.|Description::Asseyez-vous sur le trône squelette dont l\'emplacement est secret.|Astuce::Le trône se trouve sur le rocher a l\'Est de Thieves Haven au Nord de l\'épave.
-        </item>
-        <item>
-            Titre::Asseyez-vous sur le trône de Mermaid\'s Hideaway.|Description::Asseyez-vous sur le trône squelette dont l\'emplacement est secret.|Astuce::Le trône se trouve au Sud de Mermaid\'s Hideaway en haut du récif isolé.
-        </item>
-        <item>
-            Titre::Asseyez-vous sur le trône squelette de Devil\'s Ridge.|Description::Asseyez-vous sur le trône squelette dont l\'emplacement est secret.|Astuce::Le trône se trouve sous le pic Nord de Devil\'s Ridge, l\'utilisation du fusil harpon est recommandé.
-        </item>
-        <item>
-            Titre::Asseyez-vous sur le trône squelette de Hidden Spring Keep.|Description::Asseyez-vous sur le trône squelette dont l\'emplacement est secret.|Astuce::Le trône se trouve au point le plus haut de Hidden Spring Keep, l\'utilisation du fusil harpon est recommandé.
-        </item>
-        <item>
-            Titre::Asseyez-vous sur le trône squelette sous les vagues.|Description::Asseyez-vous sur le trône squelette dont l\'emplacement est secret.|Astuce::Le trône se trouve dans la grotte après le tunnel en dessous de l\épave sur l\'ile sans nom en K9.
-        </item>
+        <!--  Fond de Cale  -->
+            <!--  Trônes squelettes  -->
+            <item>
+                Titre::Asseyez-vous sur le trône de Thieves Haven.|Description::Asseyez-vous sur le trône squelette dont l\'emplacement est secret.|Astuce::Le trône se trouve sur le rocher a l\'Est de Thieves Haven au Nord de l\'épave.
+            </item>
+            <item>
+                Titre::Asseyez-vous sur le trône de Mermaid\'s Hideaway.|Description::Asseyez-vous sur le trône squelette dont l\'emplacement est secret.|Astuce::Le trône se trouve au Sud de Mermaid\'s Hideaway en haut du récif isolé.
+            </item>
+            <item>
+                Titre::Asseyez-vous sur le trône squelette de Devil\'s Ridge.|Description::Asseyez-vous sur le trône squelette dont l\'emplacement est secret.|Astuce::Le trône se trouve sous le pic Nord de Devil\'s Ridge, l\'utilisation du fusil harpon est recommandé.
+            </item>
+            <item>
+                Titre::Asseyez-vous sur le trône squelette de Hidden Spring Keep.|Description::Asseyez-vous sur le trône squelette dont l\'emplacement est secret.|Astuce::Le trône se trouve au point le plus haut de Hidden Spring Keep, l\'utilisation du fusil harpon est recommandé.
+            </item>
+            <item>
+                Titre::Asseyez-vous sur le trône squelette sous les vagues.|Description::Asseyez-vous sur le trône squelette dont l\'emplacement est secret.|Astuce::Le trône se trouve dans la grotte après le tunnel en dessous de l\épave sur l\'île sans nom en K9.
+            </item>
+            <item>
+                Titre::Asseyez-vous sur le trône secret de Cannon Cove.|Description::Asseyez-vous avec le pirate d\'un autre équipage sur le trône squelette dont l\'emplacement est secret.|Astuce::Le trône sur la partie Nord de Cannon Cove en haut du pic dans un trou, l\'utilisation du fusil harpon est recommandé.
+            </item>
+            <item>
+                Titre::Asseyez-vous sur le trône de l\'avant-poste Plunder.|Description::Asseyez-vous avec le pirate d\'un autre équipage sur le trône squelette dont l\'emplacement est secret.|Astuce::Le trône se trouve a flan de falaise a l\'Ouest de l\'avant-poste Plunder, l\'utilisation du fusil harpon est recommandé.
+            </item>
+            <item>
+                Titre::Asseyez-vous sur le trône de Shipwreck Bay.|Description::Asseyez-vous avec le pirate d\'un autre équipage sur le trône squelette dont l\'emplacement est secret.|Astuce::Le trône se trouve sur une petite île au Nord de Shipwreck Bay, l\'utilisation du fusil harpon est recommandé.
+            </item>
+            <item>
+                Titre::Asseyez-vous sur le trône proche de Smugglers\' Bay.|Description::Asseyez-vous avec le pirate d\'un autre équipage sur le trône squelette dont l\'emplacement est secret.|Astuce::Le trône se trouve dans la direction Nord-Ouest de Smugglers\' Bay sur un rocher entre Smugglers\' Bay et la trésorerie des rivages englouti, l\'utilisation du fusil harpon est recommandé.
+            </item>
+            <item>
+                Titre::Asseyez-vous sur le trône de Marauder\'s Arch.|Description::Asseyez-vous avec le pirate d\'un autre équipage sur le trône squelette dont l\'emplacement est secret.|Astuce::Le trône se trouve sur le pic Sud de Marauder\'s Arch derrière le rocher tout en haut, l\'utilisation du fusil harpon est recommandé.
+            </item>
+            <item>
+                Titre::Titre de \"Héros des trônes\"|Description::Obtenez tous les accomplissements de trônes squelettes mineurs. \(0\/5\)
+            </item>
+            <item>
+                Titre::Titre de \"Maître des trônes\"|Description::Obtenez tous les accomplissements de trônes squelettes. \(0\/10\)
+            </item>
+        <!--  Squelettes Explosifs  -->
+            <item>
+                Titre::Détonateur de squelettes|Description::Tuez trois squelettes à la fois en tirant sur un squelette explosif. (0/3)|Astuce::Aller sur une forteresse squelette actif, vous trouverez des squelettes explosif dans certaines vague.  (Peut être fait pour tout type de squelettes)
+            </item>
+            <item>
+                Titre::Maître détonateur de squelettes|Description::Tuez trois squelettes à la fois en tirant sur un squelette explosif. (0/10)|Astuce::Aller sur une forteresse squelette actif, vous trouverez des squelettes explosif dans certaines vague.  (Peut être fait pour tout type de squelettes)
+            </item>
+            <item>
+                Titre::Détonateur de squelettes floraux|Description::Tuez trois squelettes floraux à la fois en tirant sur un squelette explosif. (0/3)|Astuce::Aller sur une forteresse squelette actif, vous trouverez des squelettes explosif dans certaines vague.  (Peut être fait pour tout type de squelettes)
+            </item>
+            <item>
+                Titre::Maître détonateur de squelettes floraux|Description::Tuez trois squelettes floraux à la fois en tirant sur un squelette explosif. (0/10)|Astuce::Aller sur une forteresse squelette actif, vous trouverez des squelettes explosif dans certaines vague.  (Peut être fait pour tout type de squelettes)
+            </item>
+            <item>
+                Titre::Détonateur de squelettes d\'or|Description::Tuez trois squelettes d\'or à la fois en tirant sur un squelette explosif. (0/3)|Astuce::Aller sur une forteresse squelette actif, vous trouverez des squelettes explosif dans certaines vague.  (Peut être fait pour tout type de squelettes\
+            </item>
+            <item>
+                Titre::Maître détonateur de squelettes d\'or|Description::Tuez trois squelettes d\'or à la fois en tirant sur un squelette explosif. (0/10)|Astuce::Aller sur une forteresse squelette actif, vous trouverez des squelettes explosif dans certaines vague.  (Peut être fait pour tout type de squelettes)
+            </item>
+            <item>
+                Titre::Détonateur de squelettes de l\'ombre|Description::Tuez trois squelettes de l\'ombre à la fois en tirant sur un squelette explosif. (0/3)|Astuce::Aller sur une forteresse squelette actif, vous trouverez des squelettes explosif dans certaines vague.  (Peut être fait pour tout type de squelettes)
+            </item>
+            <item>
+                Titre::Maître détonateur de squelettes de l\'ombre|Description::Tuez trois squelettes de l\'ombre à la fois en tirant sur un squelette explosif. (0/10)|Astuce::Aller sur une forteresse squelette actif, vous trouverez des squelettes explosif dans certaines vague.  (Peut être fait pour tout type de squelettes)
+            </item>
+            <item>
+                Titre::Réaction en chaîne|Description::Provoquez une réaction en chaîne entre plusieurs squelettes explosifs. (0/1)|Astuce::Dans les forteresses squelette dans certaines vagues plusieurs squelettes explosifs vont apparaître, faites les exploser ensemble.
+            </item>
+            <item>
+                Titre::Conspiration des poudres|Description::Détruisez cinq squelettes à la fois en tirant sur un squelette explosif dans une forteresse active et alors qu\'un équipier adverse se trouve sur l\'île. (0/1)|Astuce::Peut être fait en alliance.
+            </item>
+            <item>
+                Titre::Titre de \"Détonateur de squelettes\"|Description::Obtenez les accomplissements suivants : Détonateur de squelettes, de squelettes floraux, de squelettes d\'or et de squelettes de l\'ombre. (0/12)
+            </item>
+            <item>
+                Titre::Titre de \"Maitre détonateur de squelettes\"|Description::Obtenez tous les accomplissements de squelettes explosifs non légendaires. (0/42)
+            </item>
+            <item>
+                Titre::Détonateur de squelettes légendaire|Description::Tuez trois squelettes à la fois en tirant sur un squelette explosif. (0/50)|Astuce::Aller sur une forteresse squelette actif, vous trouverez des squelettes explosif dans certaines vague.
+            </item>
+            <item>
+                Titre::Conspiration des poudres légendaire|Description::Détruisez cinq squelettes à la fois en tirant sur un squelettes explosif dans une forteresse active et alors qu\'un équipier adverse se trouve sur l\'île. (0/20)|Astuce::Peut être fait en alliance.
+            </item>
+            <item>
+                Titre::Réaction en chaîne légendaire|Description::Provoquez une réaction en chaîne entre plusieurs squelettes explosifs. (0/50)|Astuce::Dans les forteresses squelette dans certaines vagues plusieurs squelettes explosifs vont apparaître, faites les exploser ensemble.
+            </item>
+            <item>
+                Titre::Titre de \"Détonateur de squelettes légendaire\"|Description::Obtenez tous les accomplissements de squelettes explosifs légendaires.
+            </item>
+        <!--  Le Mal des profondeurs  -->
+            <item>
+                Titre::Conjureur de malédiction du saphir|Description::Détruisez 3 statues de sirène en saphir maudites. (0/3)|Astuce::Elles sont sur toutes les îles et produisent un son.
+            </item>
+            <item>
+                Titre::Maître conjureur de malédiction du saphir|Description::Détruisez 15 statues de sirène en saphir maudites. (0/15)|Astuce::Elles sont sur toutes les îles et produisent un son.
+            </item>
+            <item>
+                Titre::Conjureur de malédiction de l\'émeraude|Description::Détruisez 3 statues de sirène en émeraude maudites. (0/3)|Astuce::Elles sont sur toutes les îles et produisent un son.
+            </item>
+            <item>
+                Titre::Maître conjureur de malédiction de l\'émeraude|Description::Détruisez 15 statues de sirène en émeraude maudites. (0/15)|Astuce::Elles sont sur toutes les îles et produisent un son.
+            </item>
+            <item>
+                Titre::Conjureur de malédiction du rubis|Description::Détruisez 3 statues de sirène en rubis maudites. (0/3)|Astuce::Elles sont sur toutes les îles et produisent un son.
+            </item>
+            <item>
+                Titre::Maître conjureur de malédiction du rubis|Description::Détruisez 15 statues de sirène en rubis maudites. (0/15)|Astuce::Elles sont sur toutes les îles et produisent un son.
+            </item>
+            <item>
+                Titre::Titre de \"Conjureur de malédiction\"|Description::Obtenez les accomplissements suivants : Conjureur de malédiction du saphir, Conjureur de malédiction de l\'émeraude, Conjureur de malédiction du rubis. (0/3)
+            </item>
+            <item>
+                Titre::Titre de \"Maître conjureur de malédiction\"|Description::Obtenez tous les accomplissements de conjureur de malédiction no légendaires. (0/3)
+            </item>
+            <item>
+                Titre::Conjureur de malédiction légendaire|Description::Détruisez 100 statues de sirène maudites. (0/100)|Astuce::Elles sont sur toutes les îles et produisent un son.
+            </item>
+            <item>
+                Titre::Titre de \"Conjureur de malédiction légendaire\"|Description::Obtenez tous les accomplissements de Conjureur de malédiction légendaire. (0/100)
+            </item>
+        <!--  Cursed Sail  -->
+            <item>
+                Titre::Fléau des navires squelettes|Description::Battez 50 navires squelettes (0/50)|Astuce::Vous pouvez plonger pour la quête d\'armada squelette de l\'ordre des âmes
+            </item>
+            <item>
+                Titre::Fléau uni des navires squelettes|Description::Battez 25 navires squelettes en étant dans une alliance. (0/25)|Astuce::Vous pouvez le faire en étant seulement dans une alliance c\'est-à-dire que l\'autre bateau n\'a pas besoin d\être autour, cherchez l\'évennement monde avec un nuage en forme de bateau
+            </item>
+            <item>
+                Titre::Enquêteur des projets de Wanda|Description::Retrouvez les journaux de Wanda. (0/3)|Astuce::Le premier journal se trouve dans le camp au Sud de l\'étang sur Mermaid\'s Hideaway. \nLe second Journal se trouve dans le camp sur la plage Nord-Est de Thieves\' Haven. \nLe troisième journal se trouve sur un banc à côté du feu de camp dans la partie basse de The Sunken Grove accessible depuis le milieu de l\'île.
+            </item>
+        <!--  Les équipages maudits  -->
     </array>
 </resources>
 
