@@ -4,18 +4,16 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.TextView;
-
 import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
-
 import java.util.List;
 
 public class InfoAdapter extends RecyclerView.Adapter<InfoAdapter.InfoViewHolder> {
 
-    private List<InfoItem> infoList;
+    private List<PromotionDetail> promotionDetails;
 
-    public InfoAdapter(List<InfoItem> infoList) {
-        this.infoList = infoList;
+    public InfoAdapter(List<PromotionDetail> promotionDetails) {
+        this.promotionDetails = promotionDetails;
     }
 
     @NonNull
@@ -28,25 +26,24 @@ public class InfoAdapter extends RecyclerView.Adapter<InfoAdapter.InfoViewHolder
 
     @Override
     public void onBindViewHolder(@NonNull InfoViewHolder holder, int position) {
-        InfoItem currentItem = infoList.get(position);
-        holder.tvTitre.setText(currentItem.getTitre());
+        PromotionDetail currentItem = promotionDetails.get(position);
+        holder.tvTitle.setText(currentItem.getFullName());
         holder.tvDescription.setText(currentItem.getDescription());
-        holder.tvAstuce.setText(currentItem.getAstuce());
     }
 
     @Override
     public int getItemCount() {
-        return infoList.size();
+        return promotionDetails.size();
     }
 
     public static class InfoViewHolder extends RecyclerView.ViewHolder {
-        TextView tvTitre, tvDescription, tvAstuce;
+        TextView tvTitle, tvDescription;
 
         public InfoViewHolder(@NonNull View itemView) {
             super(itemView);
-            tvTitre = itemView.findViewById(R.id.tvTitre);
+            // Récupération des TextViews par leur ID
+            tvTitle = itemView.findViewById(R.id.tvTitle);
             tvDescription = itemView.findViewById(R.id.tvDescription);
-            tvAstuce = itemView.findViewById(R.id.tvAstuce);
         }
     }
 }
